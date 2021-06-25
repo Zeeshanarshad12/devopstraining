@@ -12,3 +12,7 @@ Don’t have to buy resources
 Elastic resources - Scale up or down quickly and easily to meet demand
 Pay for what you use only
 Self service - All the IT resources you need with self-service access
+#Difference b/w Git & Github
+Git is a version control system that lets you manage and keep track of your source code history.
+GitHub is a cloud-based hosting service that lets you manage Git repositories.
+If you have open-source projects that use Git, then GitHub is designed to help you better manage them
